@@ -1,4 +1,3 @@
-//html에 box스타일 추가해야함
 var box = document.querySelector("#box");
 box.addEventListener('mousedown', mouseDown);
 box.addEventListener('mousemove', mouseMove);
